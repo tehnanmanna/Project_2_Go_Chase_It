@@ -1,2 +1,0 @@
-set(ball_chaser_MESSAGE_FILES "")
-set(ball_chaser_SERVICE_FILES "/home/tehnanmanna/Project_2/src/Untitled Folder/ball_chaser/srv/DriveToTarget.srv")
